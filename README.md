@@ -1,3 +1,13 @@
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/54303314/185828974-58c30148-995a-4183-99af-fb653915f73c.png" width="400px">
+
+[OpenVino 簡介](https://medium.com/ching-i/intel-openvino%E4%BB%8B%E7%B4%B9%E8%88%87%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8-15b07473d998)
+
+</div>
+
+
 <div align="center">
 
 <img src="docs/img/openvino-logo-purple-black.png" width="400px">
